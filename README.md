@@ -2,4 +2,6 @@
 
 ReactJS shopping cart made using Typescript, Material UI, Styled Components and React-Query.
 
-Credits to freecodecamp.org for the TS tutorial.
+Credits to freecodecamp.org for the tutorial.
+
+API used: https://fakestoreapi.com/
